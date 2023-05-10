@@ -17,7 +17,7 @@ If you're new to JavaScript or need a refresher, here are some resources that yo
 
 If you find any issues with the solutions or if you have any suggestions for improvements, please feel free to open an issue or submit a pull request. We welcome contributions from the community!
 
-## Show thanks!
+## Show Your Gratitude!
 
 If the solutions provided were helpful to you, I would be grateful if you would consider buying me a coffee! Your support will keep me motivated and help me create more valuable content for you.
 
