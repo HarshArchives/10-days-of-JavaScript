@@ -16,11 +16,14 @@ If you're new to JavaScript or need a refresher, here are some resources that yo
 ## :handshake: Contributing
 
 If you find any issues with the solutions or if you have any suggestions for improvements, please feel free to open an issue or submit a pull request. We welcome contributions from the community!
+
 ## Show thanks!
 
-If these solutions were helpful to you, please feel free to express your gratitude!
+If the solutions provided were helpful to you, I would be grateful if you would consider buying me a coffee! Your support will keep me motivated and help me create more valuable content for you.
 
 <a href="https://www.buymeacoffee.com/theharshp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+Thank you for your generosity and support!
 
 ## :memo: License
 
